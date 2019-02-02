@@ -9,6 +9,6 @@
 - [x] created this repository on Github to start documenting ASAP
 - [ ] need to upload the picture of our the elements we'll be using for our project
 
-![GitHub Logo](/Bureau/Project/logo.png)![Alt Text](url)
+![ Image of a clock ](https://assets.entrepreneur.com/content/3x2/2000/1413404531-how-not-waste-time.jpg?width=700&crop=2:1)
 
         
