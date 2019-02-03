@@ -14,8 +14,9 @@ Yet, the main purpose of this project is related to **documentation** and is mai
 - [ ] need to upload the picture of our the elements we'll be using for our project
 #### Day 2 (03/02/2019): after creating the repository on Github
 - [x] watched tutorials  and articles about Github to get a better picture of what it is
-> *video tutorials: https://www.youtube.com/watch?v=3RjQznt-8kE*
-> *articles: https://en.wikipedia.org/wiki/GitHub*
+> *Github video tutorials: https://www.youtube.com/watch?v=3RjQznt-8kE*
+
+> *article on Github: https://en.wikipedia.org/wiki/GitHub*
         
 - [x] Created a branch, within the repository, called "Try-1" and started writing the readme
 - [x] Started editing the readme based on (*https://guides.github.com/features/mastering-markdown/*)
