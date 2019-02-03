@@ -1,6 +1,6 @@
 # Time-Ruler
 
-![ Image of a clock ](https://assets.entrepreneur.com/content/3x2/2000/1413404531-how-not-waste-time.jpg?width=700&crop=2:1)
+![](Clock.png)
 
 
 ## Introduction: 
