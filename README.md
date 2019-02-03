@@ -7,12 +7,12 @@ The physical output of this project will be in the form of a luminous ruler that
 
 Yet, the main purpose of this project is related to **documentation** and is mainly about learning to use Github as a documenting tool for maker projects. Github, through its version control system, is indeed a more than relevant tool for keeping track of one's project and letting people know about *what is and has been going on*. Our project also contains two elements that makers sometimes find difficult to document: code and design.
 
-###### Day 1 (02/02/2019): Right after deciding to start this project, Jean-Marie and I...
+#### Day 1 (02/02/2019): Right after deciding to start this project, Jean-Marie and I...
 - [x] first drew the sketch of our hardware on a small sheet of paper
 - [x] created this repository on Github to start documenting ASAP
 > *how to create a repository: https://guides.github.com/activities/hello-world/*
 - [ ] need to upload the picture of our the elements we'll be using for our project
-###### Day 2 (03/02/2019): after creating the repository on Github
+#### Day 2 (03/02/2019): after creating the repository on Github
 - [x] watched tutorials  and articles about Github to get a better picture of what it is
 > *video tutorials: https://www.youtube.com/watch?v=3RjQznt-8kE*
 > *articles: https://en.wikipedia.org/wiki/GitHub*
