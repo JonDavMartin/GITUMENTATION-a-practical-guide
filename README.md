@@ -1,5 +1,5 @@
 # Time-Ruler
-A practical project for showcasing how GITHUB can be used to document your open source project 
+A practical project for showcasing how Github can be used to document your open source project 
 
 ![Image one](Clock.png)
 
@@ -7,10 +7,12 @@ A practical project for showcasing how GITHUB can be used to document your open 
 
 - [About](#about)
 - [Why should I be documenting my project?](#Why-should-I-be-documenting-my-project-?)
+- [Documenting on Github, how difficult is it?](#Documenting-on-Github,-how-difficult-is-it?)
 
 ## About
 Time Ruler, started in the SDG solution space in Geneva, aims to provide potential makers with an example of how to use Github in order to document their projects and activities. The documentation of this project is based on Markdown, also defined on Wikipedia as
 > *a [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) with plain text formatting syntax [...] with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format"* 
+
 Its purpose is therefore to help people document their project on GITHUB 
 
 ## Why should I be documenting my project?
@@ -24,9 +26,16 @@ To answer this question, let me quote a page in [projectconnections.com](https:/
 
 > In many projects, the documentation is often done late, done poorly, or not done at all—usually because the documentation is perceived as having little or no value. And, in fact, this is true if the documents are created as an afterthought or a necessary evil. Even documents with adequate content will lose value if they are created at the wrong time during the project, or aren't used in the project management process. Here are some examples:
 
-Timing: If the project documentation is created at the wrong project stage, it may have little or no value, even if its content is quite good. Examples: a vision document created late in the project; a detailed schedule created before the stakeholders have agreed on an overall project vision.
-Use: If the plan, vision, or risk analysis documents are created and then rarely or never referenced, they will likely have little or no value except for generating some initial critical thinking during their creation. Examples: a risk analysis that isn't referenced to measure progress on mitigations, or updated with newly discovered risks as they occur; a requirements document that isn't referenced later as a design completeness checklist.
-Content: Inadequate or incomplete content decreases a document's value, even if it is created on time and used correctly. Examples: a status report for product development that doesn't track the product costs; a risk analysis that doesn't include risk mitigations.
+> > **Timing**: If the project documentation is created at the wrong project stage, it may have little or no value, even if its content is quite good. Examples: a vision document created late in the project; a detailed schedule created before the stakeholders have agreed on an overall project vision.
+
+> > **Use**: If the plan, vision, or risk analysis documents are created and then rarely or never referenced, they will likely have little or no value except for generating some initial critical thinking during their creation. Examples: a risk analysis that isn't referenced to measure progress on mitigations, or updated with newly discovered risks as they occur; a requirements document that isn't referenced later as a design completeness checklist.
+
+> > **Content**: Inadequate or incomplete content decreases a document's value, even if it is created on time and used correctly. Examples: a status report for product development that doesn't track the product costs; a risk analysis that doesn't include risk mitigations.
+
+## Documenting on Github, how difficult is it?
+Technical difficulties and obstacles may well make up one of the reasons preventing makers from documenting their project on Github. This is especially the case for those who, like me, have almost no technical or coding background. Some attention, efforts and time are therefore needed by some people to get used to Github and its "readme-language" called *[Markdown](https://en.wikipedia.org/wiki/Markdown)*. But this is no sufficient reason to cause you to abandon documentation. 
+
+-------------------------------------
 
 The physical output of this project will be in the form of a luminous ruler that indicates the duration of an activity or event to help people manage their time better during this activity (such as a speech, a show etc). 
 
