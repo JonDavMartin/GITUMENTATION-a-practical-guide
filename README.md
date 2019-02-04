@@ -6,8 +6,8 @@ A practical project for showcasing how Github can be used to document your open 
 ## Table of contents
 
 - [About](#about)
-- [Why should I be documenting my project?](#Why-should-I-be-documenting-my-project-?)
-- [Documenting on Github, how difficult is it?](#Documenting-on-Github,-how-difficult-is-it?)
+- [Why should I be documenting my project?](#why-should-I-be-documenting-my-project-?)
+- [Documenting on Github, how difficult is it?](#documenting-on-Github,-how-difficult-is-it?)
 
 ## About
 Time Ruler, started in the SDG solution space in Geneva, aims to provide potential makers with an example of how to use Github in order to document their projects and activities. The documentation of this project is based on Markdown, also defined on Wikipedia as
