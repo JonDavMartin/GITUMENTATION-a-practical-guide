@@ -7,7 +7,7 @@ A practical project for showcasing how Github can be used to document your open 
 
 - [About](#about)
 - [Why should I be documenting my project?](#why-should-I-be-documenting-my-project-?)
-- [Documenting on Github, how difficult is it?](#documenting-on-Github,-how-difficult-is-it?)
+- [Documenting on Github, how difficult is it?](#documenting-on-Github,-how-difficult-is-it)
 
 ## About
 Time Ruler, started in the SDG solution space in Geneva, aims to provide potential makers with an example of how to use Github in order to document their projects and activities. The documentation of this project is based on Markdown, also defined on Wikipedia as
@@ -32,7 +32,7 @@ To answer this question, let me quote a page in [projectconnections.com](https:/
 
 > > **Content**: Inadequate or incomplete content decreases a document's value, even if it is created on time and used correctly. Examples: a status report for product development that doesn't track the product costs; a risk analysis that doesn't include risk mitigations.
 
-## Documenting on Github, how difficult is it?
+## Documenting on Github, how difficult is it
 Technical difficulties and obstacles may well make up one of the reasons preventing makers from documenting their project on Github. This is especially the case for those who, like me, have almost no technical or coding background. Some attention, efforts and time are therefore needed by some people to get used to Github and its "readme-language" called *[Markdown](https://en.wikipedia.org/wiki/Markdown)*. But this is no sufficient reason to cause you to abandon documentation. 
 
 -------------------------------------
