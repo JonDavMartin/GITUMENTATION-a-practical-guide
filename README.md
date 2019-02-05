@@ -6,7 +6,7 @@ A practical project for showcasing how Github can be used to document your open 
 ## Table of contents
 
 - [About](#about)
-- [Why should I document my project?](#why-should-I-document-my-project)
+- [Why should I document my project?](#why-I-should-document-my-project)
 - [Difficulty of documenting on Github](#difficulty-of-documenting-on-Github)
 - [Daily report](#daily-report)
 
@@ -16,7 +16,7 @@ Time Ruler, started in the SDG solution space in Geneva, aims to provide potenti
 
 Its purpose is therefore to help people document their project on GITHUB 
 
-## Why should I document my project?
+## Why I should document my project
 To answer this question, let me quote a page in [projectconnections.com](https://www.projectconnections.com/knowhow/burning-questions/what-is-project-documentation.html):
 > When your business focuses on efficiency, cost minimization, and speed-to-market, creating lots of documentation can seem counterproductive. If the documentation doesn't directly support a deliverable, why do it? Project documentation covers documents created during and for the project itself.The documentation process has a deeper purpose than merely creating piles of paper.
 > > Documentation **stimulates and structures critical thinking** in planning the project's goals, risks, and constraints. The document is the evidence and chronicle of this critical thinking.
