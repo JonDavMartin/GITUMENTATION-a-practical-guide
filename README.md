@@ -7,7 +7,7 @@ A practical project for showcasing how Github can be used to document your open 
 
 - [About](#about)
 - [Why should I document my project?](#why-I-should-document-my-project)
-- [Difficulty of documenting on Github](#difficulty-of-documenting-on-Github)
+- [How difficult is it to document my project on Github?](#difficulty-of-documenting-on-Github)
 - [Daily report](#daily-report)
 
 ## About
@@ -34,7 +34,7 @@ To answer this question, let me quote a page in [projectconnections.com](https:/
 > > **Content**: Inadequate or incomplete content decreases a document's value, even if it is created on time and used correctly. Examples: a status report for product development that doesn't track the product costs; a risk analysis that doesn't include risk mitigations.
 
 ## Difficulty of documenting on Github
-Technical difficulties and obstacles may well make up one of the reasons preventing makers from documenting their project on Github. This is especially the case for those who, like me, have almost no technical or coding background. Some attention, efforts and time are therefore needed by some people to get used to Github and its "readme-language" called *[Markdown](https://en.wikipedia.org/wiki/Markdown)*. But this is no sufficient reason to cause you to abandon documentation. 
+Technical difficulties and obstacles may well make up one of the reasons preventing makers from documenting their project on Github. This is especially the case for those who, like me, have almost no technical or coding background. Some attention, efforts and time are therefore needed by some people to get used to Github and its "readme-language" called *[Markdown](https://en.wikipedia.org/wiki/Markdown)*. But this is no sufficient reason to make you abandon documentation. Github, thanks to some of its features (in particular to its version control system), is indeed a really good tool for documentation since it automaticly records all the changes people have done to their readme and project.
 
 ## Daily report
 
