@@ -6,8 +6,9 @@ A practical project for showcasing how Github can be used to document your open 
 ## Table of contents
 
 - [About](#about)
-- [Why should I be documenting my project?](#why-should-I-be-documenting-my-project-?)
-- [Documenting on Github, how difficult is it?](#documenting-on-Github,-how-difficult-is-it)
+- [Why should document my project?](#Why-should-I-document-my-project-?)
+- [Documenting on Github, how difficult is it?](#Documenting-on-Github,-how-difficult-is-it-?)
+- [Daily report](#daily-report)
 
 ## About
 Time Ruler, started in the SDG solution space in Geneva, aims to provide potential makers with an example of how to use Github in order to document their projects and activities. The documentation of this project is based on Markdown, also defined on Wikipedia as
@@ -15,7 +16,7 @@ Time Ruler, started in the SDG solution space in Geneva, aims to provide potenti
 
 Its purpose is therefore to help people document their project on GITHUB 
 
-## Why should I be documenting my project?
+## Why should I document my project?
 To answer this question, let me quote a page in [projectconnections.com](https://www.projectconnections.com/knowhow/burning-questions/what-is-project-documentation.html):
 > When your business focuses on efficiency, cost minimization, and speed-to-market, creating lots of documentation can seem counterproductive. If the documentation doesn't directly support a deliverable, why do it? Project documentation covers documents created during and for the project itself.The documentation process has a deeper purpose than merely creating piles of paper.
 > > Documentation **stimulates and structures critical thinking** in planning the project's goals, risks, and constraints. The document is the evidence and chronicle of this critical thinking.
@@ -32,14 +33,10 @@ To answer this question, let me quote a page in [projectconnections.com](https:/
 
 > > **Content**: Inadequate or incomplete content decreases a document's value, even if it is created on time and used correctly. Examples: a status report for product development that doesn't track the product costs; a risk analysis that doesn't include risk mitigations.
 
-## Documenting on Github, how difficult is it
+## Documenting on Github, how difficult is it?
 Technical difficulties and obstacles may well make up one of the reasons preventing makers from documenting their project on Github. This is especially the case for those who, like me, have almost no technical or coding background. Some attention, efforts and time are therefore needed by some people to get used to Github and its "readme-language" called *[Markdown](https://en.wikipedia.org/wiki/Markdown)*. But this is no sufficient reason to cause you to abandon documentation. 
 
--------------------------------------
-
-The physical output of this project will be in the form of a luminous ruler that indicates the duration of an activity or event to help people manage their time better during this activity (such as a speech, a show etc). 
-
-Yet, the main purpose of this project is related to **documentation** and is mainly about learning to use Github as a documenting tool for maker projects. Github, through its version control system, is indeed a more than relevant tool for keeping track of one's project and letting people know about *what is and has been going on*. Our project also contains two elements that makers sometimes find difficult to document: code and design.
+## Daily report
 
 #### Day 1 (02/02/2019): Right after deciding to start this project, Jean-Marie and I...
 - [x] first drew the sketch of our hardware on a small sheet of paper
@@ -51,6 +48,13 @@ Yet, the main purpose of this project is related to **documentation** and is mai
 > *Github video tutorials: https://www.youtube.com/watch?v=3RjQznt-8kE*
 
 > *article on Github: https://en.wikipedia.org/wiki/GitHub*
+-------------------------------------
+
+The physical output of this project will be in the form of a luminous ruler that indicates the duration of an activity or event to help people manage their time better during this activity (such as a speech, a show etc). 
+
+Yet, the main purpose of this project is related to **documentation** and is mainly about learning to use Github as a documenting tool for maker projects. Github, through its version control system, is indeed a more than relevant tool for keeping track of one's project and letting people know about *what is and has been going on*. Our project also contains two elements that makers sometimes find difficult to document: code and design.
+
+
         
 - [x] Created a branch, within the repository, called "Try-1" and started writing the readme
 - [x] Started editing the readme based on (*https://guides.github.com/features/mastering-markdown/*)
