@@ -9,6 +9,8 @@ A practical project for showcasing how Github can be used to document your open 
 - [Why should I document my project?](#why-I-should-document-my-project)
 - [How difficult is it to document my project on Github?](#difficulty-of-documenting-on-Github)
 - [Daily report](#daily-report)
+    - [Day 1](#day-1)
+    - [Day 2](#day-2)
 
 ## About
 Time Ruler, started in the SDG solution space in Geneva, is a project aiming to provide potential makers with an example of how to use Github to document their own projects and activities. The documentation of Time Ruler is based on Markdown, also defined on Wikipedia as
@@ -44,12 +46,17 @@ But this is no sufficient reason to make you abandon documentation. Github, than
 
 ## Daily report
 
-#### Day 1 (02/02/2019): Right after deciding to start this project, Jean-Marie and I...
+#### Day 1 
+(02/02/2019)
+**Right after deciding to start this project, Jean-Marie and I...**
 - [x] first drew the sketch of our hardware on a small sheet of paper
 - [x] created this repository on Github to start documenting ASAP
 > *how to create a repository: https://guides.github.com/activities/hello-world/*
 - [ ] need to upload the picture of our the elements we'll be using for our project
-#### Day 2 (03/02/2019): after creating the repository on Github
+
+#### Day 2
+(03/02/2019)
+**After creating the repository on Github**
 - [x] watched tutorials  and articles about Github to get a better picture of what it is
 > *Github video tutorials: https://www.youtube.com/watch?v=3RjQznt-8kE*
 
