@@ -59,8 +59,7 @@ But this is no sufficient reason to make you abandon documentation. Github, than
 **After creating the repository on Github**
 - [x] watched tutorials  and articles about Github to get a better picture of what it is
 > *Github video tutorials: https://www.youtube.com/watch?v=3RjQznt-8kE*
-
-> *article on Github: https://en.wikipedia.org/wiki/GitHub*
+> *Article on Github: https://en.wikipedia.org/wiki/GitHub*
         
 - [x] Created my first branch, within this repository, called "Try-1" and started writing the readme
 - [x] Started editing the readme based on (*https://guides.github.com/features/mastering-markdown/*)
