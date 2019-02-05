@@ -6,7 +6,7 @@ A practical project for showcasing how Github can be used to document your open 
 ## Table of contents
 
 - [About](#about)
-- [Why should I document my project?](#why-should-I-document-my-project-?)
+- [Why should I document my project?](#why-should-I-document-my-project)
 - [Difficulty of documenting on Github](#difficulty-of-documenting-on-Github)
 - [Daily report](#daily-report)
 
