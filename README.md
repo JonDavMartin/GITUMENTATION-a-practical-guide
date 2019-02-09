@@ -13,7 +13,7 @@ In this guide, we choosed to create a "time ruler" as the physical device we'll 
 - [Introduction to GITHUB](#introduction-to-GITHUB)
     - [Start using Github](#start-using-Github)
     - [Start using Markdown](#start-using-Markdown)
-- [EXAMPLE-of-documentation-with-the-creation-of-a-time-ruler](#EXAMPLE-of-documentation-with-the-creation-of-a-time-ruler)
+- [EXAMPLE-of-documentation:-the-creation-of-a-time-ruler](#EXAMPLE-of-documentation-with-the-creation-of-a-time-ruler)
     
     - [Daily report](#daily-report)
         - [Day 1](#day-1)
@@ -27,7 +27,7 @@ Our purpose is therefore to help people document their project by showing them h
 
 As mentioned above, the physical output that we'll be documenting is in the form of a luminous ruler that indicates the duration of an activity or event to help people manage their time better during any activity (such as a speech, a show etc). 
 
-# INTRODUCTION TO DOCUMENTATION
+# Introduction to documentation
 
 ## Why I should document my project
 To answer this question, let me quote an inspiring webpage from [projectconnections.com](https://www.projectconnections.com/knowhow/burning-questions/what-is-project-documentation.html):
@@ -51,11 +51,16 @@ Technical difficulties and obstacles may well make up one of the reasons prevent
 
 But this is no sufficient reason to make you abandon documentation. Github, thanks to some of its features (in particular to its version control system), is in fact a really good tool for documentation since it automatically records all the changes people have done as well as the steps they have taken during their projects. Soon after starting your github documentation, you'll realize how useful and beneficial it can be for you and your team.
 
-# INTRODUCTION TO GITHUB
+# Introduction to Github
 
 ## Start using Github
 
+    [github guides] (https://guides.github.com)
+    
+
 ## Start using Markdown
+
+    [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
 
 # EXAMPLE of documentation with the creation of a time ruler
 
