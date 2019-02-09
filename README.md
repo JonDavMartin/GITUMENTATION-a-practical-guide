@@ -1,25 +1,33 @@
 # Github and Documentation
 A practical guide for showcasing how Github can be used to document your open source project.
-In this guide, we choosed to create a "time ruler" as the physical device we'll be documenting, thus giving a concrete exemple of how Github can be used to document your project.
+In this guide, we choosed to create a "time ruler" as the physical device we'll be documenting, thus giving a concrete exemple of how Github can be used to document an open source project.
 
 ![Image one](Clock.png)
 
 ## Table of contents
 
 - [About](#about)
-- [Why should I document my project?](#why-I-should-document-my-project)
-- [How difficult is it to document my project on Github?](#difficulty-of-documenting-on-Github)
-- [Daily report](#daily-report)
-    - [Day 1](#day-1)
-    - [Day 2](#day-2)
+- [Introduction to DOCUMENTATION](#introduction-to-documentation)
+    - [Why should I document my project?](#why-I-should-document-my-project)
+    - [How difficult is it to document my project on Github?](#difficulty-of-documenting-on-Github)
+- [Introduction to GITHUB](#introduction-to-GITHUB)
+    - [Start using Github](#start-using-Github)
+    - [Start using Markdown](#start-using-Markdown)
+- [Time-ruler: example of documentation]
+    
+    - [Daily report](#daily-report)
+        - [Day 1](#day-1)
+        - [Day 2](#day-2)
 
 ## About
-Time Ruler, started in the SDG solution space in Geneva, is a project aiming to provide potential makers with an example of how to use Github to document their own projects and activities. The documentation of Time Ruler is based on Markdown, also defined on Wikipedia as
+Started in the SDG solution space in Geneva, we aim to provide potential makers with a guide as well as an example of how to use Github to document their projects and activities. Documentation on Githbub is based on Markdown, also defined on Wikipedia as
 > *a [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) with plain text formatting syntax [...] with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format"* 
 
-Its purpose is therefore to help people document their project by showing them how to store their projects' documentation on Github. Github, through its version control system, is indeed a more than relevant tool for keeping track of one's project and letting people (within *and* outside of your team) know about *what is and has been going on*: it automatically records all the changes that have been done and stores the steps that have been taken throughout any project that it hosts.
+Our purpose is therefore to help people document their project by showing them how to use Markdown to store their projects' documentation on Github. Github, through its version control system, is indeed a more than relevant tool for keeping track of one's project and letting people (within *and* outside of your team) know about *what is and has been going on*: it automatically records all the changes that have been done and stores the steps that have been taken throughout any project that it hosts.
 
-Now, the physical output of this project that we'll be documenting will be in the form of a luminous ruler that indicates the duration of an activity or event to help people manage their time better during this activity (such as a speech, a show etc). 
+As mentioned above, the physical output that we'll be documenting is in the form of a luminous ruler that indicates the duration of an activity or event to help people manage their time better during any activity (such as a speech, a show etc). 
+
+# INTRODUCTION TO DOCUMENTATION
 
 ## Why I should document my project
 To answer this question, let me quote an inspiring webpage from [projectconnections.com](https://www.projectconnections.com/knowhow/burning-questions/what-is-project-documentation.html):
@@ -43,7 +51,13 @@ Technical difficulties and obstacles may well make up one of the reasons prevent
 
 But this is no sufficient reason to make you abandon documentation. Github, thanks to some of its features (in particular to its version control system), is in fact a really good tool for documentation since it automatically records all the changes people have done as well as the steps they have taken during their projects. Soon after starting your github documentation, you'll realize how useful and beneficial it can be for you and your team.
 
+# INTRODUCTION TO GITHUB
 
+## Start using Github
+
+## Start using Markdown
+
+# EXAMPLE of documentation with the creation of a time ruler
 
 ## Daily report
 
