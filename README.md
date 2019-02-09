@@ -13,7 +13,7 @@ In this guide, we choosed to create a "time ruler" as the physical device we'll 
 - [Introduction to GITHUB](#introduction-to-GITHUB)
     - [Start using Github](#start-using-Github)
     - [Start using Markdown](#start-using-Markdown)
-- [Time-ruler: example of documentation]
+- [EXAMPLE-of-documentation-with-the-creation-of-a-time-ruler](#EXAMPLE-of-documentation-with-the-creation-of-a-time-ruler)
     
     - [Daily report](#daily-report)
         - [Day 1](#day-1)
