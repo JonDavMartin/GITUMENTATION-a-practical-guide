@@ -1,5 +1,6 @@
-# Time-Ruler
-A practical project for showcasing how Github can be used to document your open source project 
+# Github and Documentation
+A practical guide for showcasing how Github can be used to document your open source project.
+In this guide, we choosed to create a "time ruler" as the physical device we'll be documenting, thus giving a concrete exemple of how Github can be used to document your project.
 
 ![Image one](Clock.png)
 
