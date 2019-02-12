@@ -13,7 +13,7 @@ In this guide, we choosed to create a "time ruler" as the physical device we'll 
 - [Introduction to GITHUB](#introduction-to-GITHUB)
     - [Start using Github](#start-using-Github)
     - [Start using Markdown](#start-using-Markdown)
-- [EXAMPLE-of-documentation:-the-creation-of-a-time-ruler](#EXAMPLE-of-documentation-with-the-creation-of-a-time-ruler)
+- [EXAMPLE of documentation: the creation of a time ruler](#EXAMPLE-of-documentation-with-the-creation-of-a-time-ruler)
     
     - [Daily report](#daily-report)
         - [Day 1](#day-1)
@@ -55,12 +55,12 @@ But this is no sufficient reason to make you abandon documentation. Github, than
 
 ## Start using Github
 
-    [github guides] (https://guides.github.com)
+Github already provides us with a very helpful [github guide] (https://guides.github.com) that helps people understand and use Github better. I would recommend to anyone willing to start using Github to consult this guide before starting. Yet, no need to understand and go through all the chapters at once. Just go for those that could  
     
 
 ## Start using Markdown
 
-    [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
+Github also provides us with a guide on [mastering Markdown] (https://guides.github.com/features/mastering-markdown/). It is very helpful to get some first insights on how to use Markdown to create and edit your readme/documentation. 
 
 # EXAMPLE of documentation with the creation of a time ruler
 
