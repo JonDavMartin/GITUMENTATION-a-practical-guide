@@ -55,12 +55,12 @@ But this is no sufficient reason to make you abandon documentation. Github, than
 
 ## Start using Github
 
-Github already provides us with a very helpful [github guide] (https://guides.github.com) that helps people understand and use Github better. I would recommend to anyone willing to start using Github to consult this guide before starting. Yet, no need to understand and go through all the chapters at once. Just go for those that could  
+Github already provides us with a very helpful [github guide](https://guides.github.com) that helps people understand and use Github better. I would recommend to anyone willing to start using Github to consult this guide before starting. Yet, no need to understand and go through all the chapters at once. Just go for those that could  
     
 
 ## Start using Markdown
 
-Github also provides us with a guide on [mastering Markdown] (https://guides.github.com/features/mastering-markdown/). It is very helpful to get some first insights on how to use Markdown to create and edit your readme/documentation. 
+Github also provides us with a guide on [mastering Markdown](https://guides.github.com/features/mastering-markdown/). It is very helpful to get some first insights on how to use Markdown to create and edit your readme/documentation. 
 
 # EXAMPLE of documentation with the creation of a time ruler
 
