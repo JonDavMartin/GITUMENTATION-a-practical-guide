@@ -2,7 +2,7 @@
 A practical guide for showcasing how Github can be used to document your open source project.
 In this guide, we choosed to create a "time ruler" as the physical device we'll be documenting, thus giving a concrete exemple of how to use Github to document an open source project.
 
-![Image one](Clock.png)
+![Image one](Not-documented-not-done.png)
 
 ## Table of contents
 
