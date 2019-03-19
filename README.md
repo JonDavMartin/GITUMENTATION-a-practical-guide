@@ -27,7 +27,7 @@ Our purpose is therefore to help people document their project by showing them h
 
 As mentioned above, the physical output that we'll be documenting is in the form of a luminous ruler that indicates the duration of an activity or event to help people manage their time better during any activity (such as a speech, a show etc). 
 
-# Introduction to documentation
+# Introduction to documentation THEORY
 
 ## Why I should document my project
 To answer this question, let me quote an inspiring webpage from [projectconnections.com](https://www.projectconnections.com/knowhow/burning-questions/what-is-project-documentation.html):
@@ -69,7 +69,7 @@ Github already provides us with a very helpful [github guide](https://guides.git
 
 Github also provides us with a guide on [mastering Markdown](https://guides.github.com/features/mastering-markdown/). It is very helpful to get some first insights on how to use Markdown to create and edit your readme/documentation. 
 
-# EXAMPLE of documentation with the creation of a time ruler
+# Introduction to documentation PRACTICE
 
 ## Daily report
 
