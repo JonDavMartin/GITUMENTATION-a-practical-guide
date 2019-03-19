@@ -74,5 +74,5 @@ But this is no sufficient reason to make you abandon documentation. Github, than
 
 # Introduction to documentation PRACTICE
 
-## for the documentation of our small example-project, please have a look at thw wiki page!
+for the documentation of our small example-project, please have a look at our [wiki page](https://github.com/JonDavMartin/GITHUB-and-DOCUMENTATION-a-practical-guide/wiki)!
  
