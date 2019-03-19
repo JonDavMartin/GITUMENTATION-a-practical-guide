@@ -74,23 +74,5 @@ But this is no sufficient reason to make you abandon documentation. Github, than
 
 # Introduction to documentation PRACTICE
 
-## Daily report
-
-#### Day 1 
-(02/02/2019)
-**Right after deciding to start this project, Jean-Marie and I...**
-- [x] first drew the sketch of our hardware on a small sheet of paper
-- [x] created this repository on Github to start documenting ASAP
-> *how to create a repository: https://guides.github.com/activities/hello-world/*
-- [ ] need to upload the picture of our the elements we'll be using for our project
-
-#### Day 2
-(03/02/2019)
-**After creating the repository on Github**
-- [x] watched tutorials  and articles about Github to get a better picture of what it is
-> *Github video tutorials: https://www.youtube.com/watch?v=3RjQznt-8kE*
-> *Article on Github: https://en.wikipedia.org/wiki/GitHub*
-        
-- [x] Created my first branch, within this repository, called "Try-1" and started writing the readme
-- [x] Started editing the readme based on (*https://guides.github.com/features/mastering-markdown/*)
+## for the documentation of our small example-project, please have a look at thw wiki page!
  
