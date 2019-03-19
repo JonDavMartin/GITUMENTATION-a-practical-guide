@@ -7,13 +7,13 @@ In this guide, we choosed to create a "time ruler" as the physical device we'll 
 ## Table of contents
 
 - [About](#about)
-- [Introduction to DOCUMENTATION](#introduction-to-documentation)
+- [Introduction to DOCUMENTATION: Theory](#introduction-to-documentation-:-Theory)
     - [Why should I document my project?](#why-I-should-document-my-project)
     - [How difficult is it to document my project on Github?](#difficulty-of-documenting-on-Github)
 - [Introduction to GITHUB](#introduction-to-GITHUB)
     - [Start using Github](#start-using-Github)
     - [Start using Markdown](#start-using-Markdown)
-- [EXAMPLE of documentation: the creation of a time ruler](#EXAMPLE-of-documentation-with-the-creation-of-a-time-ruler)
+- [Introduction to DOCUMENTATION: Practice](#Introduction-to-DOCUMENTATION-:-Practice)
     
     - [Daily report](#daily-report)
         - [Day 1](#day-1)
