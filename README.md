@@ -1,51 +1,33 @@
 # Github and Documentation
-A practical guide for showcasing how Github can be used to document your open source project.
-In this guide, we choosed to create a "time ruler" as the physical device we'll be documenting, thus giving a concrete exemple of how to use Github to document an open source project.
+A practical guide for showcasing how to use Github to document your open source project.
+
+Along with the guide, a short introdution to the main elements required to accomplish the submentioned task are available (that is documentation, Github, Markdown, the Readme and the Wiki page). You'll also have the opportunity to find a concrete exemple of documentation in our Wiki page.
 
 ![Image one](Not-documented-not-done.png)
 
 ## Table of contents
 
 - [About](#about)
-- [Introduction to GITHUB](#introduction-to-GITHUB)
-    - [Start using Github](#start-using-Github)
-    - [Start using Markdown](#start-using-Markdown)
-    
+
 - [Introduction to documentation: THEORY](#introduction-to-documentation-THEORY)
     - [Why should I document my project?](#why-I-should-document-my-project)
     - [How difficult is it to document my project on Github?](#difficulty-of-documenting-on-Github)
     
+- [Introduction to GITHUB](#introduction-to-GITHUB)
+    - [Start using Github](#start-using-Github)
+    - [Start using Markdown](#start-using-Markdown)
+    
 - [Introduction to documentation: PRACTICE](#Introduction-to-documentation-PRACTICE)
     
-    - [Daily report](#daily-report)
-        - [Day 1](#day-1)
-        - [Day 2](#day-2)
 
 ## About
-Started in the SDG solution space in Geneva, we aim to provide potential makers with a guide as well as an example of how to use Github to document their projects and activities. Documentation on Githbub is based on Markdown, also defined on Wikipedia as
-> *a [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) with plain text formatting syntax [...] with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format"* 
+Started in the SDG solution space in Geneva, we aim to provide potential makers with a guide as well as an example of how to use Github to document their projects and activities. New makers might indeed not be familiar with the notion of documentation, the tools available to that purpose and the way of using those tools efficiently. Well, this is exactly the reason this project has been designed for.
 
-Our purpose is therefore to help people document their project by showing them how to use Markdown to store their projects' documentation on Github. Github, through its version control system, is indeed a more than relevant tool for keeping track of one's project and letting people (within *and* outside of your team) know about *what is and has been going on*: it automatically records all the changes that have been done and stores the steps that have been taken throughout any project that it hosts.
+For those who have only few experience in documentation and who might feel anxious at the idea of using and struggling with Github: **no worries**. As a non-technical person, I already found myself in this situation, which consequently slowed down the progression of the project I needed to document at that time. 
 
-As mentioned above, the physical output that we'll be documenting is in the form of a luminous ruler that indicates the duration of an activity or event to help people manage their time better during any activity (such as a speech, a show etc). 
+By following this guide, you should be able to reduce substantially your *documentation learning time*, that is the hours you should spend to become aware of the importance of documentation (1), to look for an effective way to document your project (2) and to learn how to use a tool that allows you to do so (3).
 
-# Introduction to Github
-
-## Start using Github
-
-Github already provides us with a very helpful [github guide](https://guides.github.com) that helps people understand and use Github better. I would recommend to anyone willing to start using Github to consult this guide before starting. Yet, no need to understand and go through all the chapters at once. Just go for the chapters that are the most relevant for you.  
-
-...**Hello world**. this chapter is a very clear introduction to the main features you'll be using for creating your documentation:
-- What is Github?
-- Creating an open source repository
-- starting and managing a new branch
-- Changing a file and commiting those changes on Github
-- Opening and merging a pull request
-    
-## Start using Markdown
-
-Github also provides us with a guide on [mastering Markdown](https://guides.github.com/features/mastering-markdown/). It is very helpful to get some first insights on how to use Markdown to create and edit your readme/documentation. 
-
+This guide is divided in three parts: Introduction to Github/Markdown, Introduction to documentation (theory) and a practical guide.
 
 # Introduction to documentation THEORY
 
@@ -71,6 +53,28 @@ Technical difficulties and obstacles may well make up one of the reasons prevent
 
 But this is no sufficient reason to make you abandon documentation. Github, thanks to some of its features (in particular to its version control system), is in fact a really good tool for documentation since it automatically records all the changes people have done as well as the steps they have taken during their projects. Soon after starting your github documentation, you'll realize how useful and beneficial it can be for you and your team.
 
+# Introduction to Github
+
+Why is Github even interesting for someone who'd like to document its project? 
+Github, through its version control system, is indeed a more than relevant tool for keeping track of one's project and letting people (within *and* outside of your team) know about *what is and has been going on*: it automatically records all the changes that have been done and stores the steps that have been taken throughout any project that it hosts.
+
+## Start using Github
+
+Github already provides us with a very helpful [github guide](https://guides.github.com) that helps people understand and use Github better. I would recommend to anyone willing to start using Github to consult this guide before starting. Yet, no need to understand and go through all the chapters at once. Just go for the chapters that are the most relevant for you.  
+
+...**Hello world**. this chapter is a very clear introduction to the main features you'll be using for creating your documentation:
+- What is Github?
+- Creating an open source repository
+- starting and managing a new branch
+- Changing a file and commiting those changes on Github
+- Opening and merging a pull request
+    
+## Start using Markdown
+
+Documentation on Githbub is based on Markdown, also defined on Wikipedia as
+> *a [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) with plain text formatting syntax [...] with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format"* 
+
+Github precisely provides us with a guide on [mastering Markdown](https://guides.github.com/features/mastering-markdown/). It is very helpful to get some first insights on how to use Markdown to create and edit your readme/documentation. 
 
 # Introduction to documentation PRACTICE
 
