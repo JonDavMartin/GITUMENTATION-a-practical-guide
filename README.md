@@ -60,21 +60,28 @@ Github, through its version control system, is indeed a more than relevant tool 
 
 ## Start using Github
 
-Github already provides us with a very helpful [github guide](https://guides.github.com) that helps people understand and use Github better. I would recommend to anyone willing to start using Github to consult this guide before starting. Yet, no need to understand and go through all the chapters at once. Just go for the chapters that are the most relevant for you.  
+Github already provides us with a very helpful [github guide](https://guides.github.com) that helps people understand and use Github better. I would recommend to anyone willing to start using Github to consult this guide before starting. Yet, no need to understand and go through all the chapters at once. Just go for the chapters that are the most relevant for you:  
 
-...**Hello world**. this chapter is a very clear introduction to the main features you'll be using for creating your documentation:
+...[**Hello world**](https://guides.github.com/activities/hello-world/): this chapter is a very clear introduction to the main features you'll be using for creating your documentation:
 - What is Github?
 - Creating an open source repository
 - starting and managing a new branch
 - Changing a file and commiting those changes on Github
 - Opening and merging a pull request
+
+...[**Github pages**](https://guides.github.com/features/pages/): this chapter guides you on how to create and manage a public webpage/site for your project that Github will then host for free (like the webpage that I created and that you are currently reading).
+
+...[**Documenting your project on Github**](https://guides.github.com/features/wikis/): this chapter is one of the most interesting for us; it clearly mentions the role of Github as a documentation tool and the tools Github provides you to achieve a good documentation, namely the README (a first and overall presentation of your project) and the WIKI page (the page where you'll be able to document your project and all your activities in detail).
     
 ## Start using Markdown
 
 Documentation on Githbub is based on Markdown, also defined on Wikipedia as
 > *a [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) with plain text formatting syntax [...] with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format"* 
 
-Github precisely provides us with a guide on [mastering Markdown](https://guides.github.com/features/mastering-markdown/). It is very helpful to get some first insights on how to use Markdown to create and edit your readme/documentation. 
+Github precisely provides us with a guide on how to use Markdown to start wrinting your readme/wiki page.
+
+... [**Mastering Markdown**](https://guides.github.com/features/mastering-markdown/): this chapter shows you how to start using the Markdown language. It is a basic introduction. For more information and further learning, I'd recommend you to check out [this webpage](https://help.github.com/en/categories/writing-on-github).
+ 
 
 # Introduction to documentation PRACTICE
 
