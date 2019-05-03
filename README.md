@@ -57,6 +57,17 @@ But this is no sufficient reason to make you abandon documentation. Github, than
 
 Why is Github even interesting for someone who'd like to document its project? 
 Github, through its version control system, is indeed a more than relevant tool for keeping track of one's project and letting people (within *and* outside of your team) know about *what is and has been going on*: it automatically records all the changes that have been done and stores the steps that have been taken throughout any project that it hosts.
+For the rest, let me quote the [Github page](https://guides.github.com/features/wikis/) responsible of presenting Github as a documentation tool:
+
+> Good documentation is key to the success of any project. Making documentation accessible enables people to learn about a project; making it easy to update ensures that documentation stays relevant.
+
+> Two common ways to document a project are README files and wikis:
+
+> README files are a quick and simple way for other users to learn more about your work.
+
+> Wikis on GitHub help you present in-depth information about your project in a useful way.
+
+> It’s a good idea to at least have a README on your project, because it’s the first thing many people will read when they first find your work.
 
 ### Start using Github
 
