@@ -33,7 +33,7 @@ For those who have only few experience in documentation and who might feel anxio
 
 By following this guide, you should be able to reduce substantially your *documentation learning time*, that is the hours you should spend to become aware of the importance of documentation (1), to look for an effective way to document your project (2) and to learn how to use a tool that allows you to do so (3).
 
-This guide is divided in three parts: Introduction to Github/Markdown, Introduction to documentation (theory) and a practical guide.
+This guide is divided in three parts: Introduction to documentation (theory), Introduction to Github/Markdown and a concrete example of documentation (see wikipage).
 
 ## Introduction to documentation THEORY
 
