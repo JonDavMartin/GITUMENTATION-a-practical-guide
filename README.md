@@ -1,7 +1,13 @@
 # Github and Documentation
-A practical guide for showcasing how to use Github to document your open source project.
+A practical guide for learning how to **use Github to document your open source project**, that is for learning how to **gitument**.
 
-Along with the guide, a short introdution to the main elements required to accomplish the submentioned task are available (that is documentation, Github, Markdown, the Readme and the Wiki page). You'll also have the opportunity to find a concrete exemple of documentation in our Wiki page.
+This guide provides you with a short introdution to the main elements that are necessary to start gitumenting/using Github as a documentation tool (that is documentation, Github, Markdown, the Readme and the Wiki page), as well as with hyperlinks redirecting you to useful webpages created by the Github team itself that will help you in your task. 
+
+Our objective is twofold
+- to convince you of documenting your project on Github
+- to help you save as much time as possible in your "Gitumentation" learning process
+
+We also plan to provide you with a concrete example of documentation on our wikipage. But the example is not avalable yet.
 
 ![Image one](Not-documented-not-done.png)
 
