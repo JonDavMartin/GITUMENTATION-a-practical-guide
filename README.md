@@ -63,32 +63,48 @@ But this is no sufficient reason to make you abandon documentation. Github, than
 
 Why is Github even interesting for someone who'd like to document its project? 
 Github, through its version control system, is indeed a more than relevant tool for keeping track of one's project and letting people (within *and* outside of your team) know about *what is and has been going on*: it automatically records all the changes that have been done and stores the steps that have been taken throughout any project that it hosts.
-For the rest, let me quote the [Github page](https://guides.github.com/features/wikis/) responsible of presenting Github as a documentation tool:
+
+Github provides you with a [guide](https://guides.github.com) presenting you the main aspects of Github through many chapters. No need to read them all. You'll mainly be dealing with three of them: [**Hello world**](https://guides.github.com/activities/hello-world/), [**Documenting your project on Github**](https://guides.github.com/features/wikis/) and [**Mastering Markdown**](https://guides.github.com/features/mastering-markdown/)
+
+### Start using Github 
+
+#### 1) Sign up on Github:
+
+    [**Github.com**](https://github.com)
+
+#### 2) Create your first repository:
+
+    [**Hello world**](https://guides.github.com/activities/hello-world/) will guide you on how to create your first [repository] (https://help.github.com/en/articles/about-repositories). 
+    N.B.: when you are creating your new repository on GitHub, select “Initialize this repository with a README” unless you plan to import an existing repository. 
+
+#### 3) Create your Readme:
+
+    If you followed the last *nota bene*, Your README.md file was automaticly created and is now available for editing in your new repository. 
+    
+### Start [Documenting your project on Github] (https://guides.github.com/features/wikis/) with your Readme and wiki pages
+
+The guide [Documenting your project on Github] (https://guides.github.com/features/wikis/) provided by Github is one of the most interesting for us; it clearly mentions the role of Github as a documentation tool and the tools Github provides you to achieve a good documentation, namely the README (a first and overall presentation of your project) and the WIKI page (the page where you'll be able to document your project and all your activities in detail):
 
 > Good documentation is key to the success of any project. Making documentation accessible enables people to learn about a project; making it easy to update ensures that documentation stays relevant.
 
 > Two common ways to document a project are README files and wikis:
 
-> - README files are a quick and simple way for other users to learn more about your work.
+> - README files are a quick and simple way for other users to learn more about your work.It’s a good idea to at least have a README on your project, because it’s the first thing many people will read when they first find your work.
 
 > - Wikis on GitHub help you present in-depth information about your project in a useful way.
 
-> It’s a good idea to at least have a README on your project, because it’s the first thing many people will read when they first find your work.
+#### 4) Formatting and editing your README:
 
-### Start using Github
+    Now, it is time to start gitumenting/documenting on Github by writing the main information concerning your project on your Readme, that is:
+    - the name of your project: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
+    - a description: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
+    - A table of Contents: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
+    
+    To edit your Readme and write down this information on it, you'll have to start using Markdown learning how it works (see next chapter). Still, to accelerate this learning and editing process, I already designed a [template] (https://github.com/JonDavMartin/SummerSchool-projects-Template) for you. All you'll need to do is forking [it] (https://github.com/JonDavMartin/SummerSchool-projects-Template) and then copy/pasting the content of its Readme in your own Readme. Then, you'll be able to modify what you just copy/pasted according to your project. 
 
-Github already provides us with a very helpful [github guide](https://guides.github.com) that helps people understand and use Github better. I would recommend to anyone willing to start using Github to consult this guide before starting. Yet, no need to understand and go through all the chapters at once. Just go for the chapters that are the most relevant for you:  
-
-...[**Hello world**](https://guides.github.com/activities/hello-world/): this chapter is a very clear introduction to the main features you'll be using for creating your documentation:
-- What is Github?
-- Creating an open source repository
-- starting and managing a new branch
-- Changing a file and commiting those changes on Github
-- Opening and merging a pull request
+--------------------- (SUITE A FINIR)-------
 
 ...[**Github pages**](https://guides.github.com/features/pages/): this chapter guides you on how to create and manage a public webpage/site for your project that Github will then host for free (like the webpage that I created and that you are currently reading).
-
-...[**Documenting your project on Github**](https://guides.github.com/features/wikis/): this chapter is one of the most interesting for us; it clearly mentions the role of Github as a documentation tool and the tools Github provides you to achieve a good documentation, namely the README (a first and overall presentation of your project) and the WIKI page (the page where you'll be able to document your project and all your activities in detail).
     
 ### Start using Markdown
 
