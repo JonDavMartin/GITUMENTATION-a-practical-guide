@@ -24,8 +24,7 @@ We also plan to provide you with a concrete example of documentation on our wiki
     - [Start using Markdown](#start-using-markdown)
     
 - [Introduction to documentation: PRACTICE](#introduction-to-documentation-practice)
-    
-
+   
 ### About
 Started in the SDG solution space in Geneva, we aim to provide potential makers with a guide as well as an example of how to use Github to document their projects and activities. New makers might indeed not be familiar with the notion of documentation, the tools available to that purpose and the way of using those tools efficiently. Well, this is exactly the reason this project has been designed for.
 
@@ -34,6 +33,8 @@ For those who have only few experience in documentation and who might feel anxio
 By following this guide, you should be able to reduce substantially your *documentation learning time*, that is the hours you should spend to become aware of the importance of documentation (1), to look for an effective way to document your project (2) and to learn how to use a tool that allows you to do so (3).
 
 This guide is divided in three parts: Introduction to documentation (theory), Introduction to Github/Markdown and a concrete example of documentation (see wikipage).
+
+![Image two](time-to-think.jpg)
 
 ## Introduction to documentation THEORY
 
@@ -64,6 +65,8 @@ Why is Github even interesting for someone who'd like to document its project?
 Github, through its version control system, is indeed a more than relevant tool for keeping track of one's project and letting people (within *and* outside of your team) know about *what is and has been going on*: it automatically records all the changes that have been done and stores the steps that have been taken throughout any project that it hosts.
 
 Github provides you with a [guide](https://guides.github.com) presenting you the main aspects of Github through many chapters. No need to read them all. You'll mainly be dealing with three of them: [**Hello world**](https://guides.github.com/activities/hello-world/), [**Documenting your project on Github**](https://guides.github.com/features/wikis/) and [**Mastering Markdown**](https://guides.github.com/features/mastering-markdown/)
+
+![Image three](time-to-start.jpeg)
 
 ### Start using Github 
 
