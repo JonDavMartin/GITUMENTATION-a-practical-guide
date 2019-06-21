@@ -34,7 +34,7 @@ By following this guide, you should be able to reduce substantially your *docume
 
 This guide is divided in three parts: Introduction to documentation (theory), Introduction to Github/Markdown and a concrete example of documentation (see wikipage).
 
-![Image two](time-to-think.jpg)
+![Image two](time-to-think.png)
 
 ## Introduction to documentation THEORY
 
@@ -66,7 +66,7 @@ Github, through its version control system, is indeed a more than relevant tool 
 
 Github provides you with a [guide](https://guides.github.com) presenting you the main aspects of Github through many chapters. No need to read them all. You'll mainly be dealing with three of them: [**Hello world**](https://guides.github.com/activities/hello-world/), [**Documenting your project on Github**](https://guides.github.com/features/wikis/) and [**Mastering Markdown**](https://guides.github.com/features/mastering-markdown/)
 
-![Image three](time-to-start.jpeg)
+![Image three](time-to-start.png)
 
 ### Start using Github 
 
