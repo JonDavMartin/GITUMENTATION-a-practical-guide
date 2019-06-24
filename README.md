@@ -86,8 +86,8 @@ Github provides you with a [guide](https://guides.github.com) presenting you the
 >    2. Click on `Repositories` (next to "overview") and then, in the upper right corner, on the `green button "New"`
 >    3. Name your repository `hello-world` and select `public`and `initialize it with a readme`
 >    
->       *This is just a try, so let's name it "hello world". No need to write a short description. Make sure each time you create a new repository to **select "**public repository**" and "**initialize it with a readme**"*
->    Great, you've created your first repository!
+>       *This is just a try, so let's name it "hello world". No need to write a short description. Make sure each time you create a new repository to **select "public repository" and "initialize it with a readme"*
+>    4. Great, you've created your first repository!
 
 #### 3) Create your Readme:
 
@@ -106,14 +106,13 @@ To edit your Readme and write down all this information, you'll have to start us
 
 #### 4) Create a second repository using the template:
 
-All you'll need to do to **[use this template](https://help.github.com/en/articles/creating-a-repository-from-a-template)** is 
+> All you'll need to do to **[use this template](https://help.github.com/en/articles/creating-a-repository-from-a-template)** is 
 >    1. Opening the repository of the template in just a [click](https://github.com/JonDavMartin/SummerSchool-projects-Template)
 >    2. Clicking on the `green Use this template button` (near the top right corner)
 >    3. Typing the name of your project as the name for your new repository and adding a small description of it
 >       
->       *Make sure your to select `public repository` and `initialize it with a readme` *
-
->    4. Finally clicking on "Create repository from template"
+>       *Make sure your to select `public repository` and `initialize it with a readme`*
+>    4. Finally clicking on `Create repository from template`
 >
 >       *You should now possess a second repository on Github that is based on my template. You are now able to freely start documenting your project on Github on the basis of my template. You now just have to modify the code that is already existing according to your own project and documentation*
 
