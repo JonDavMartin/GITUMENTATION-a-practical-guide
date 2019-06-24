@@ -97,7 +97,7 @@ The guide [Documenting your project on Github](https://guides.github.com/feature
         - README files are a quick and simple way for other users to learn more about your work.It’s a good idea to at least have a README on your project, because it’s the first thing many people will read when they first find your work.
         - Wikis on GitHub help you present in-depth information about your project in a useful way.
 
-#### 4) Formatting and editing your README:
+#### 4) Start formatting and editing your README:
 
 > Now, it is time to start gitumenting/documenting on Github by writing the main information concerning your project on your Readme, that is:
 > - **the name of your project**: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
@@ -105,9 +105,19 @@ The guide [Documenting your project on Github](https://guides.github.com/feature
 > - **A table of Contents**: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
    
 > To edit your Readme and write down all this information on it, you'll have to start using Markdown and learning how it works (see next chapter).
-> Still, to accelerate this learning and editing process, I already designed a [template](https://github.com/JonDavMartin/SummerSchool-projects-Template) for you. All you'll need to do is 
-> - **forking [it](https://github.com/JonDavMartin/SummerSchool-projects-Template)** and  
-> - **copy/pasting** the content of the forked Readme in your own Readme. Then, you'll be able to modify according to your own project and documentation. 
+> Still, to accelerate this learning and editing process, I already designed a **template** for you:
+
+#### 5) Using the template:
+
+All you'll need to do to **[use this template](https://help.github.com/en/articles/creating-a-repository-from-a-template)** is 
+>    1. Opening the repository of the template in just a [click](https://github.com/JonDavMartin/SummerSchool-projects-Template)
+>    2. Clicking on the green "Use this template" button (near the top right corner)
+>    3. Typing a name for your new repository (like "template") 
+>       
+>       (*make sure your new repository is public*)
+>    4. Finally clicking on "Create repository from template"
+>
+>       *You should now possess a second repository on Github that is based on my template. You are now able to freely copy/paste the content/code of this template's Readme into your first Readme. Then, you'll be able to modify the code according to your own project and documentation*
 
 --------------------- (SUITE A FINIR)-------
 
