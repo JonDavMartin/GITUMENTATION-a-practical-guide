@@ -73,24 +73,28 @@ Github provides you with a [guide](https://guides.github.com) presenting you the
   <img width="275" height="183" src="time-to-start.png">
 </p>
 
-### Start using Github 
-
+### Start using Github
+  
 #### 1) Sign up on Github:
 
 >  [**Github.com**](https://github.com)
 
 #### 2) Create your first repository:
 
-> [**Hello world**](https://guides.github.com/activities/hello-world/) will guide you on how to create your first [repository](https://help.github.com/en/articles/about-repositories).
->
-> **N.B.**: when you are creating your new repository on GitHub, select “Initialize this repository with a README” unless you plan to import an existing repository. 
+> [**Hello world**](https://guides.github.com/activities/hello-world/), in its **step 1.**, will guide you on how to create your first [repository](https://help.github.com/en/articles/about-repositories):
+>    1. Log in to your Github account and go to the main page of your account
+>    2. Click on `Repositories` (next to "overview") and then, in the upper right corner, on the `green button "New"`
+>    3. Name your repository `hello-world` and select `public`and `initialize it with a readme`
+>    
+>       *This is just a try, so let's name it "hello world". No need to write a short description. Make sure each time you create a new repository to **select "**public repository**" and "**initialize it with a readme**"*
+>    Great, you've created your first repository!
 
 #### 3) Create your Readme:
 
-> If you followed the last *nota bene*, Your README.md file was automaticly created and is now available for editing in your new repository. 
+> If you followed step 3., Your README.md file was automaticly created and is now available for editing in your new repository.
     
-### Start [Documenting your project on Github](https://guides.github.com/features/wikis/) with your Readme and wiki pages
-
+### Start [Documenting your project on Github](https://guides.github.com/features/wikis/) with your Readme and Wiki pages
+  
 The guide [Documenting your project on Github](https://guides.github.com/features/wikis/) provided by Github is one of the most interesting for us; it clearly mentions the role of Github as a documentation tool as well as the tools Github provides you to achieve a good documentation, namely (1)the README (a first and overall presentation of your project) and (2) the WIKI page (the page where you'll be able to document your project and all your activities in detail)
  
     Good documentation is key to the success of any project. Making documentation accessible enables people to learn about a project; making it easy to update ensures that documentation stays relevant.
@@ -98,43 +102,49 @@ The guide [Documenting your project on Github](https://guides.github.com/feature
         - README files are a quick and simple way for other users to learn more about your work.It’s a good idea to at least have a README on your project, because it’s the first thing many people will read when they first find your work.
         - Wikis on GitHub help you present in-depth information about your project in a useful way.
 
-#### 4) Start formatting and editing your README:
+To edit your Readme and write down all this information, you'll have to start using Markdown and learning how it works (see next chapter). To accelerate this learning and editing process, I already designed a **template** for you:
 
-> Now, it is time to start gitumenting/documenting on Github by writing the main information concerning your project on your Readme, that is:
-> - **the name of your project**: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
-> - **a description**: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
-> - **A table of Contents**: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
-   
-> To edit your Readme and write down all this information on it, you'll have to start using Markdown and learning how it works (see next chapter).
-> Still, to accelerate this learning and editing process, I already designed a **template** for you:
-
-#### 5) Using the template:
+#### 4) Create a second repository using the template:
 
 All you'll need to do to **[use this template](https://help.github.com/en/articles/creating-a-repository-from-a-template)** is 
 >    1. Opening the repository of the template in just a [click](https://github.com/JonDavMartin/SummerSchool-projects-Template)
->    2. Clicking on the green "Use this template" button (near the top right corner)
->    3. Typing a name for your new repository (like "template") 
+>    2. Clicking on the `green Use this template button` (near the top right corner)
+>    3. Typing the name of your project as the name for your new repository and adding a small description of it
 >       
->       (*make sure your new repository is public*)
+>       *Make sure your to select `public repository` and `initialize it with a readme` *
+
 >    4. Finally clicking on "Create repository from template"
 >
->       *You should now possess a second repository on Github that is based on my template. You are now able to freely copy/paste the content/code of this template's Readme into your first Readme. Then, you'll be able to modify the code according to your own project and documentation*
+>       *You should now possess a second repository on Github that is based on my template. You are now able to freely start documenting your project on Github on the basis of my template. You now just have to modify the code that is already existing according to your own project and documentation*
 
---------------------- (SUITE A FINIR)-------
+#### 5) Start formatting and editing a README:
 
-...[**Github pages**](https://guides.github.com/features/pages/): this chapter guides you on how to create and manage a public webpage/site for your project that Github will then host for free (like the webpage that I created and that you are currently reading).
+Now, it is time to start gitumenting/documenting on Github by writing down the main information concerning your project in your Readme, that is:
+- **the name of your project**: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
+- **a description**: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
+- **A table of Contents**: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
+Please note that your Readme can serve as your first webpage/site for your project that Github will be hosting **for free** (I'll give you more information on this later on).
+
+> In order to do that, just...
+>   1. Go to the main page of your repository
+>   2. Click on `Readme` and on the `edit button in the form of a pen` on the right of your screen (next to the "rubish button")
+>   3. Start writing done your informations and text! 
+>
+>       *the template already gives you a basis to facilitate your start. Still, it is now time for you to start learning some simple Markdown language in order to carry on editing your Readme properly:
     
-### Start using Markdown
+### 6) Start using Markdown
 
-Documentation on Githbub is based on Markdown, also defined on Wikipedia as
+------ A FINIR -----
+
+Documentation (Readme and Wiki pages) on Githbub is based on Markdown, also defined on Wikipedia as
 > *a [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) with plain text formatting syntax [...] with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format"* 
 
-Github precisely provides us with a guide on how to use Markdown to start wrinting your readme/wiki page.
+Github precisely provides us with a guide on how to use Markdown to start wrinting your readme/wiki page:
 
 ... [**Mastering Markdown**](https://guides.github.com/features/mastering-markdown/): this chapter shows you how to start using the Markdown language. It is a basic introduction. For more information and further learning, I'd recommend you to check out [this webpage](https://help.github.com/en/categories/writing-on-github).
  
 
-## Introduction to documentation PRACTICE
+## Introduction to documentation EXAMPLE
 
 for the documentation of our small example-project, please have a look at our [wiki page](https://github.com/JonDavMartin/GITHUB-and-DOCUMENTATION-a-practical-guide/wiki)!
  
