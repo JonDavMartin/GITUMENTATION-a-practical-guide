@@ -100,14 +100,14 @@ The guide [Documenting your project on Github](https://guides.github.com/feature
 #### 4) Formatting and editing your README:
 
 > Now, it is time to start gitumenting/documenting on Github by writing the main information concerning your project on your Readme, that is:
->> - **the name of your project**: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
->> - **a description**: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
->> - **A table of Contents**: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
+> - **the name of your project**: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
+> - **a description**: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
+> - **A table of Contents**: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
    
 > To edit your Readme and write down all this information on it, you'll have to start using Markdown and learning how it works (see next chapter).
 > Still, to accelerate this learning and editing process, I already designed a [template](https://github.com/JonDavMartin/SummerSchool-projects-Template) for you. All you'll need to do is 
->> - **forking [it](https://github.com/JonDavMartin/SummerSchool-projects-Template)** and  
->> - **copy/pasting** the content of the forked Readme in your own Readme. Then, you'll be able to modify according to your own project and documentation. 
+> - **forking [it](https://github.com/JonDavMartin/SummerSchool-projects-Template)** and  
+> - **copy/pasting** the content of the forked Readme in your own Readme. Then, you'll be able to modify according to your own project and documentation. 
 
 --------------------- (SUITE A FINIR)-------
 
