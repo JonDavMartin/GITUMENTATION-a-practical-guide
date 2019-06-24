@@ -80,8 +80,9 @@ Github provides you with a [guide](https://guides.github.com) presenting you the
 
 #### 2) Create your first repository:
 
->[**Hello world**](https://guides.github.com/activities/hello-world/) will guide you on how to create your first [repository](https://help.github.com/en/articles/about-repositories). 
-    N.B.: when you are creating your new repository on GitHub, select “Initialize this repository with a README” unless you plan to import an existing repository. 
+>[**Hello world**](https://guides.github.com/activities/hello-world/) will guide you on how to create your first [repository](https://help.github.com/en/articles/about-repositories).
+>
+> **N.B.**: when you are creating your new repository on GitHub, select “Initialize this repository with a README” unless you plan to import an existing repository. 
 
 #### 3) Create your Readme:
 
@@ -89,8 +90,8 @@ Github provides you with a [guide](https://guides.github.com) presenting you the
     
 ### Start [Documenting your project on Github](https://guides.github.com/features/wikis/) with your Readme and wiki pages
 
-The guide [Documenting your project on Github](https://guides.github.com/features/wikis/) provided by Github is one of the most interesting for us; it clearly mentions the role of Github as a documentation tool and the tools Github provides you to achieve a good documentation, namely the README (a first and overall presentation of your project) and the WIKI page (the page where you'll be able to document your project and all your activities in detail):
-
+The guide [Documenting your project on Github](https://guides.github.com/features/wikis/) provided by Github is one of the most interesting for us; it clearly mentions the role of Github as a documentation tool as well as the tools Github provides you to achieve a good documentation, namely (1)the README (a first and overall presentation of your project) and (2) the WIKI page (the page where you'll be able to document your project and all your activities in detail)
+ 
     Good documentation is key to the success of any project. Making documentation accessible enables people to learn about a project; making it easy to update ensures that documentation stays relevant.
     Two common ways to document a project are README files and wikis:
         - README files are a quick and simple way for other users to learn more about your work.It’s a good idea to at least have a README on your project, because it’s the first thing many people will read when they first find your work.
@@ -99,11 +100,14 @@ The guide [Documenting your project on Github](https://guides.github.com/feature
 #### 4) Formatting and editing your README:
 
 > Now, it is time to start gitumenting/documenting on Github by writing the main information concerning your project on your Readme, that is:
-    - the name of your project: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
-    - a description: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
-    - A table of Contents: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
-    
-> To edit your Readme and write down this information on it, you'll have to start using Markdown learning how it works (see next chapter). Still, to accelerate this learning and editing process, I already designed a [template](https://github.com/JonDavMartin/SummerSchool-projects-Template) for you. All you'll need to do is forking [it](https://github.com/JonDavMartin/SummerSchool-projects-Template) and then copy/pasting the content of its Readme in your own Readme. Then, you'll be able to modify what you just copy/pasted according to your project. 
+>> - **the name of your project**: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
+>> - **a description**: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
+>> - **A table of Contents**: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
+   
+> To edit your Readme and write down all this information on it, you'll have to start using Markdown and learning how it works (see next chapter).
+> Still, to accelerate this learning and editing process, I already designed a [template](https://github.com/JonDavMartin/SummerSchool-projects-Template) for you. All you'll need to do is 
+>> - **forking [it](https://github.com/JonDavMartin/SummerSchool-projects-Template)** and  
+>> - **copy/pasting** the content of the forked Readme in your own Readme. Then, you'll be able to modify according to your own project and documentation. 
 
 --------------------- (SUITE A FINIR)-------
 
