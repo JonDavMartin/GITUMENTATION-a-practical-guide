@@ -72,23 +72,23 @@ Github provides you with a [guide](https://guides.github.com) presenting you the
   <img width="275" height="183" src="time-to-start.png">
 </p>
 
-### Start using Github 
+### A. Start using Github 
 
-#### 1) Sign up on Github:
+#### &nbsp;&nbsp;&nbsp; 1) Sign up on Github:
 
-> [**Github.com**](https://github.com)
+> &nbsp;&nbsp;&nbsp; [**Github.com**](https://github.com)
 
-#### 2) Create your first repository:
+#### &nbsp;&nbsp;&nbsp; 2) Create your first repository:
 
->[**Hello world**](https://guides.github.com/activities/hello-world/) will guide you on how to create your first [repository](https://help.github.com/en/articles/about-repositories).
+> &nbsp;&nbsp;&nbsp;[**Hello world**](https://guides.github.com/activities/hello-world/) will guide you on how to create your first [repository](https://help.github.com/en/articles/about-repositories).
 >
-> **N.B.**: when you are creating your new repository on GitHub, select “Initialize this repository with a README” unless you plan to import an existing repository. 
+> &nbsp;&nbsp;&nbsp; **N.B.**: when you are creating your new repository on GitHub, select “Initialize this repository with a README” unless you plan to import an existing repository. 
 
-#### 3) Create your Readme:
+#### &nbsp;&nbsp;&nbsp; 3) Create your Readme:
 
-> If you followed the last *nota bene*, Your README.md file was automaticly created and is now available for editing in your new repository. 
+> &nbsp;&nbsp;&nbsp; If you followed the last *nota bene*, Your README.md file was automaticly created and is now available for editing in your new repository. 
     
-### Start [Documenting your project on Github](https://guides.github.com/features/wikis/) with your Readme and wiki pages
+### B. Start [Documenting your project on Github](https://guides.github.com/features/wikis/) with your Readme and wiki pages
 
 The guide [Documenting your project on Github](https://guides.github.com/features/wikis/) provided by Github is one of the most interesting for us; it clearly mentions the role of Github as a documentation tool as well as the tools Github provides you to achieve a good documentation, namely (1)the README (a first and overall presentation of your project) and (2) the WIKI page (the page where you'll be able to document your project and all your activities in detail)
  
@@ -97,7 +97,7 @@ The guide [Documenting your project on Github](https://guides.github.com/feature
         - README files are a quick and simple way for other users to learn more about your work.It’s a good idea to at least have a README on your project, because it’s the first thing many people will read when they first find your work.
         - Wikis on GitHub help you present in-depth information about your project in a useful way.
 
-#### 4) Start formatting and editing your README:
+#### &nbsp;&nbsp;&nbsp; 4) Start formatting and editing your README:
 
 > Now, it is time to start gitumenting/documenting on Github by writing the main information concerning your project on your Readme, that is:
 > - **the name of your project**: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
