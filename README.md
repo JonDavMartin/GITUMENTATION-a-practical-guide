@@ -21,6 +21,7 @@ We also plan to provide you with a concrete example of documentation on our wiki
     
 - [Introduction to documentation with Github: PRACTICE](#introduction-to-documentation-with-github-practice)
     - [Start using Github](#start-using-github)
+    - [Start documenting your project on Github with your Readme and wiki pages](#start-documenting-your-project-on-github-with-your-readme-and-wiki-pages)
     - [Start using Markdown](#start-using-markdown)
     
 - [Introduction to documentation: PRACTICE](#introduction-to-documentation-practice)
@@ -72,7 +73,7 @@ Github provides you with a [guide](https://guides.github.com) presenting you the
   <img width="275" height="183" src="time-to-start.png">
 </p>
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A. Start using Github 
+### Start using Github 
 
 #### 1) Sign up on Github:
 
@@ -88,7 +89,7 @@ Github provides you with a [guide](https://guides.github.com) presenting you the
 
 > If you followed the last *nota bene*, Your README.md file was automaticly created and is now available for editing in your new repository. 
     
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B. Start [Documenting your project on Github](https://guides.github.com/features/wikis/) with your Readme and wiki pages
+### Start [Documenting your project on Github](https://guides.github.com/features/wikis/) with your Readme and wiki pages
 
 The guide [Documenting your project on Github](https://guides.github.com/features/wikis/) provided by Github is one of the most interesting for us; it clearly mentions the role of Github as a documentation tool as well as the tools Github provides you to achieve a good documentation, namely (1)the README (a first and overall presentation of your project) and (2) the WIKI page (the page where you'll be able to document your project and all your activities in detail)
  
@@ -137,3 +138,4 @@ Github precisely provides us with a guide on how to use Markdown to start wrinti
 
 for the documentation of our small example-project, please have a look at our [wiki page](https://github.com/JonDavMartin/GITHUB-and-DOCUMENTATION-a-practical-guide/wiki)!
  
+<!-- in case I want to indent sth: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" --> 
