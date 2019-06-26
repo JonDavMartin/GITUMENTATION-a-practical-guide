@@ -137,8 +137,7 @@ Please note that your Readme can serve as your first webpage/site for your proje
 >       *quoted from [here](https://daringfireball.net/projects/markdown/)*
 
 Thus, “Markdown” is two things: (1) a plain text formatting syntax; and (2) a software tool, written in Perl, that converts the plain text formatting to HTML. 
-You can now have a look at [mastering markdown](https://guides.github.com/features/mastering-markdown/) and [basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) which display all the usefull syntax you'll need to write your down your Readme and Wiki page properly. In case the basic syntax provided in these guides are not enough, you can also chec [the following webpage](https://daringfireball.net/projects/markdown/syntax#blockquote) that comes with more Markdown syntax.
->       *Don't forget some useful syntax is already provided by the template; you now just need to modify it*
+You can now have a look at [mastering markdown](https://guides.github.com/features/mastering-markdown/) and [basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) which display all the usefull syntax you'll need to write your down your Readme and Wiki page properly. In case the basic syntax provided in these guides are not enough, you can also chec [the following webpage](https://daringfireball.net/projects/markdown/syntax#blockquote) that comes with more Markdown syntax. (*Don't forget some useful syntax is already provided by the template; you now just need to modify it*)
 
 #### 7) Start using your Wikipage
 
@@ -151,7 +150,6 @@ You can now have a look at [mastering markdown](https://guides.github.com/featur
 Documentation (Readme and Wiki pages) on Githbub is based on Markdown, also defined on Wikipedia as
 > *a [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) with plain text formatting syntax [...] with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format"* 
 
- 
 
 ## Introduction to documentation EXAMPLE
 
