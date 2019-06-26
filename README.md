@@ -86,7 +86,7 @@ Github provides you with a [guide](https://guides.github.com) presenting you the
 >    2. Click on `Repositories` (next to "overview") and then, in the upper right corner, on the `green button "New"`
 >    3. Name your repository `hello-world` and select `public`and `initialize it with a readme`
 >    
->       *This is just a try, so let's name it "hello world". No need to write a short description. Make sure each time you create a new repository to **select "public repository" and "initialize it with a readme"*
+>       *This is just a try, so let's name it "hello world". No need to write a short description. Make sure each time you create a new repository to select "public repository" and "initialize it with a readme"*
 >    4. Great, you've created your first repository!
 
 #### 3) Create your Readme:
@@ -129,18 +129,28 @@ Please note that your Readme can serve as your first webpage/site for your proje
 >   2. Click on `Readme` and on the `edit button in the form of a pen` on the right of your screen (next to the "rubish button")
 >   3. Start writing done your informations and text! 
 >
->       *the template already gives you a basis to facilitate your start. Still, it is now time for you to start learning some simple Markdown language in order to carry on editing your Readme properly:
+>       *the template already gives you a basis to facilitate your start. Still, it is now time for you to start learning some simple Markdown language in order to carry on editing your Readme properly:*
     
-### 6) Start using Markdown
+#### 6) Start using Markdown for your Readme and Wiki page
+
+> Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+>       *quoted from [here](https://daringfireball.net/projects/markdown/)*
+
+Thus, “Markdown” is two things: (1) a plain text formatting syntax; and (2) a software tool, written in Perl, that converts the plain text formatting to HTML. 
+You can now have a look at [mastering markdown](https://guides.github.com/features/mastering-markdown/) and [basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) which display all the usefull syntax you'll need to write your down your Readme and Wiki page properly. In case the basic syntax provided in these guides are not enough, you can also chec [the following webpage](https://daringfireball.net/projects/markdown/syntax#blockquote) that comes with more Markdown syntax.
+>       *Don't forget some useful syntax is already provided by the template; you now just need to modify it*
+
+#### 7) Start using your Wikipage
+
+[About Wikis](https://help.github.com/en/articles/about-wikis) first explains you the use of a Wikipage in contrast to that of a Readme Page. As to the role of a wiki page, it says that...
+> "Every GitHub repository comes equipped with a section for hosting documentation, called a wiki. You can use your repository's wiki to share long-form content about your project, such as how to use it, how you designed it, or its core principles. A README file quickly tells what your project can do, while you can use a wiki to provide additional documentation."
+[Adding or editing Wiki pages](https://help.github.com/en/articles/adding-or-editing-wiki-pages) or [Editing Wki content](https://help.github.com/en/articles/editing-wiki-content) then show you how to create and modify your Wiki page.  
 
 ------ A FINIR -----
 
 Documentation (Readme and Wiki pages) on Githbub is based on Markdown, also defined on Wikipedia as
 > *a [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) with plain text formatting syntax [...] with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format"* 
 
-Github precisely provides us with a guide on how to use Markdown to start wrinting your readme/wiki page:
-
-... [**Mastering Markdown**](https://guides.github.com/features/mastering-markdown/): this chapter shows you how to start using the Markdown language. It is a basic introduction. For more information and further learning, I'd recommend you to check out [this webpage](https://help.github.com/en/categories/writing-on-github).
  
 
 ## Introduction to documentation EXAMPLE
