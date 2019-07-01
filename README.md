@@ -1,13 +1,13 @@
 # Github and Documentation
 A practical guide for learning how to **use Github to document your open source project**, that is for learning how to **gitument**.
 
-This guide provides you with a short introdution to the main elements that are necessary to start gitumenting/using Github as a documentation tool (that is documentation, Github, Markdown, the Readme and the Wiki page), as well as with hyperlinks redirecting you to useful webpages created by the Github team itself that will help you in your task. 
+This guide provides you with a short introdution to the main elements that are necessary to start gitumenting/using Github as a documentation tool (that is documentation, Github, Markdown,the Readme, the Posts and Wiki page), as well as with hyperlinks redirecting you to useful webpages created by the Github team itself that will help you in your task. 
 
 Our objective is twofold
 - to convince you of documenting your project on Github
 - to help you save as much time as possible in your "Gitumentation" learning process
 
-We also plan to provide you with a concrete example of documentation on our wikipage. But the example is not avalable yet.
+We also plan to provide you with a very short but concrete example of documentation on Posts and Wiki pages.
 
 ![Image one](Not-documented-not-done.png)
 
@@ -21,7 +21,7 @@ We also plan to provide you with a concrete example of documentation on our wiki
     
 - [Introduction to documentation with Github: PRACTICE](#introduction-to-documentation-with-github-practice)
     - [Start using Github](#start-using-github)
-    - [Start documenting your project on Github with your Readme and wiki pages](#start-documenting-your-project-on-github-with-your-readme-and-wiki-pages)
+    - [Start documenting your project on Github with your Readme, Posts and Wiki pages](#start-documenting-your-project-on-github-with-your-readme-posts-and-wiki-pages)
     - [Start using Markdown](#start-using-markdown)
     
 - [Introduction to documentation: PRACTICE](#introduction-to-documentation-practice)
@@ -33,7 +33,7 @@ For those who have only few experience in documentation and who might feel anxio
 
 By following this guide, you should be able to reduce substantially your *documentation learning time*, that is the hours you should spend to become aware of the importance of documentation (1), to look for an effective way to document your project (2) and to learn how to use a tool that allows you to do so (3).
 
-This guide is divided in three parts: Introduction to documentation (theory), Introduction to Github/Markdown and a concrete example of documentation (see wikipage).
+This guide is divided in three parts: Introduction to documentation (theory), Introduction to Github/Markdown and a concrete example of documentation (see Posts and Wiki pages).
 
 <p align="center">
   <img width="397" height="124" src="time-to-think.png">
@@ -93,7 +93,7 @@ Github provides you with a [guide](https://guides.github.com) presenting you the
 
 > If you followed step 3., Your README.md file was automaticly created and is now available for editing in your new repository.
     
-### Start [Documenting your project on Github](https://guides.github.com/features/wikis/) with your Readme and Wiki pages
+### Start [Documenting your project on Github](https://guides.github.com/features/wikis/) with your Readme, Posts and Wiki pages
   
 The guide [Documenting your project on Github](https://guides.github.com/features/wikis/) provided by Github is one of the most interesting for us; it clearly mentions the role of Github as a documentation tool as well as the tools Github provides you to achieve a good documentation, namely (1)the README (a first and overall presentation of your project) and (2) the WIKI page (the page where you'll be able to document your project and all your activities in detail)
  
@@ -131,17 +131,17 @@ Please note that your Readme can serve as your first webpage/site for your proje
 >
 >       *the template already gives you a basis to facilitate your start. Still, it is now time for you to start learning some simple Markdown language in order to carry on editing your Readme properly:*
     
-#### 6) Start using Markdown for your Readme and Wiki page
+#### 6) Start using Markdown for your Readme, Posts and Wiki pages
 
-> Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+> Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). Readmes, Posts and Wiki pages on Github all require Markdown.
 >       *quoted from [here](https://daringfireball.net/projects/markdown/)*
 
-Thus, “Markdown” is two things: (1) a plain text formatting syntax; and (2) a software tool, written in Perl, that converts the plain text formatting to HTML. 
+Thus, “Markdown” is two things: (1) a plain text formatting syntax; and (2) a software tool that converts the plain text formatting to HTML. 
 You can now have a look at [mastering markdown](https://guides.github.com/features/mastering-markdown/) and [basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) which display all the usefull syntax you'll need to write your down your Readme and Wiki page properly. In case the basic syntax provided in these guides are not enough, you can also chec [the following webpage](https://daringfireball.net/projects/markdown/syntax#blockquote) that comes with more Markdown syntax. (*Don't forget some useful syntax is already provided by the template; you now just need to modify it*)
 
-#### 7) Start using your Wikipage
+#### 7) Start using your Wiki page
 
-[About Wikis](https://help.github.com/en/articles/about-wikis) first explains you the use of a Wikipage in contrast to that of a Readme Page. As to the role of a wiki page, it says that...
+[About Wikis](https://help.github.com/en/articles/about-wikis) first explains you the use of a Wiki page in contrast to that of a Readme Page. As to the role of a wiki page, it says that...
 > "Every GitHub repository comes equipped with a section for hosting documentation, called a wiki. You can use your repository's wiki to share long-form content about your project, such as how to use it, how you designed it, or its core principles. A README file quickly tells what your project can do, while you can use a wiki to provide additional documentation."
 [Adding or editing Wiki pages](https://help.github.com/en/articles/adding-or-editing-wiki-pages) or [Editing Wki content](https://help.github.com/en/articles/editing-wiki-content) then show you how to create and modify your Wiki page.  
 
