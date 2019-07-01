@@ -36,7 +36,7 @@ For those who have only few experience in documentation and who might feel anxio
 
 By following this guide, you should be able to reduce substantially your *documentation learning time*, that is the hours you should spend to become aware of the importance of documentation (1), to look for an effective way to document your project (2) and to learn how to use a tool that allows you to do so (3).
 
-This guide is divided in three parts: Introduction to documentation (theory), Introduction to Github/Markdown and a concrete example of documentation (see Posts and Wiki pages).
+This guide is divided in three parts: **Theory**, **practice** and **examples** regarding documentation on Github.
 
 <p align="center">
   <img width="397" height="124" src="time-to-think.png">
@@ -65,16 +65,16 @@ This guide is divided in three parts: Introduction to documentation (theory), In
 
 ### Difficulty of documenting on Github
 
-Technical difficulties and obstacles may well make up one of the reasons preventing makers from documenting their project on Github. This is especially the case for those who, like me, have almost no technical or coding background. Some attention, efforts and time are therefore needed by some people to get used to Github and its "readme-language" called *[Markdown](https://en.wikipedia.org/wiki/Markdown)*. 
+Technical difficulties and obstacles may well make up one of the reasons preventing makers from documenting their project on Github. This is especially the case for those who, like me, have almost no technical or coding background. Some attention, efforts and time are therefore needed by some people to get used to Github and its "writing-language" called *[Markdown](https://en.wikipedia.org/wiki/Markdown)*. 
 
 But this is no sufficient reason to make you abandon documentation. Github, thanks to some of its features (in particular to its version control system), is in fact a really good tool for documentation since it automatically records all the changes people have done as well as the steps they have taken during their projects. Soon after starting your github documentation, you'll realize how useful and beneficial it can be for you and your team.
 
 ### Gitumentation: Readmes, Posts and Wikis
 
 Github is a software development platform that provides you with some concrete tools for documenting your project, namely 
-1. the README: a first and overall presentation of your project
-2. the Posts: a presentation of your project's progress
-3. the Wiki page or wiki: a private page for documenting private and more detailed parts of our project that won't be shown publicly
+1. the **Readme**: a first and overall presentation of your project
+2. the **Posts**: a presentation of your project's progress
+3. the **Wiki page** or **wiki**: a private page for documenting private and more detailed parts of our project that won't be shown publicly
 
 Those are the main tools that will be presented in this guide for helping you document on Github. The first tool you'll be using is the *Readme* in order to provide a first and general introduction of your project. The Readme is what will first appear on the webpage of your project that Github will be hosting automatically for you. The second tool are *the Posts* that you'll be publishing in order to present the general progress of your project in more details. The posts will also show up on your project's webpage hosted on Github right after your Readme. *Wiki pages* are finally more of a private use and won't appear directly on your webpage. They can be used to write down the day to day progress of your project as well as some private information about your project that you'd like to keep safe.
 
@@ -82,7 +82,8 @@ Those are the main tools that will be presented in this guide for helping you do
 
 As already said, the [developers market](http://blog.developers.market) and in particular the projects that have access to it are all linked to Github. Indeed, to add your project on the developers market, your project first needs to be hosted on a Github repository. Github can therefore be seen as an essential condition for your project to access the developers market. 
 
-Moreover, the tokens that projects can acquire on the developers market are also linked to Github. The potential tokens that  projects acquire on the market indeed come from commits (or changes) that you and your team make on your project's repository on Github. The main elements you need to remember here is that all changes/commmits on your Readme and Posts will be awarded tokens whereas changes/commits in your Wiki page won't be awarded anything.
+Moreover, the tokens that projects can acquire on the developers market are also linked to Github. The potential tokens that  projects acquire on the market indeed come from commits (or changes) that you and your team make on your project's Github repository. The main elements you need to remember here is that all changes/commmits on your Readme and Posts made by your team can be awarded tokens on the developers market whereas changes/commits in your Wiki page cannot be awarded any token on the market.
+For more information about the developers market, please have a look at its [whitepaper](http://blog.developers.market/whitepaper).
 
 ## Introduction to documentation with Github PRACTICE
 
