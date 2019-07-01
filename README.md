@@ -1,13 +1,14 @@
 # Github and Documentation
-A practical guide for learning how to **use Github to document your open source project**, that is for learning how to **gitument**.
+A practical guide for learning how to **use Github to document your open source project**, that is for learning how to **gitument**. Once documented on Github, your project will be able to come onto the developers market and take advantage of its incentivizing mechanisms to carry on developing and scaling up. Active documentation on Github therefore constitutes the basis for the development of your project on the developers market.
 
-This guide provides you with a short introdution to the main elements that are necessary to start gitumenting/using Github as a documentation tool (that is documentation, Github, Markdown,the Readme, the Posts and Wiki page), as well as with hyperlinks redirecting you to useful webpages created by the Github team itself that will help you in your task. 
+This guide mainly provides you with a short introdution to the main elements that are necessary to start gitumenting/using Github as a documentation tool (that is documentation, Github, Markdown,the Readme, the Posts and Wiki page), as well as with hyperlinks redirecting you to all useful webpages managed by Github that can help you achieve this task. 
 
-Our objective is twofold
+Our objective is threefold
 - to convince you of documenting your project on Github
 - to help you save as much time as possible in your "Gitumentation" learning process
+- to facilitate your entry onto the developers market
 
-We also plan to provide you with a very short but concrete example of documentation on Posts and Wiki pages.
+We also plan to provide you with a very short but concrete example of documentation of Readmes, Posts and Wikis (Wiki pages).
 
 ![Image one](Not-documented-not-done.png)
 
@@ -18,6 +19,8 @@ We also plan to provide you with a very short but concrete example of documentat
 - [Introduction to documentation: THEORY](#introduction-to-documentation-theory)
     - [Why should I document my project?](#why-i-should-document-my-project)
     - [How difficult is it to document my project on Github?](#difficulty-of-documenting-on-github)
+    - [Gitumentation: Readmes, Posts and Wikis](#gitumentation-readmes-posts-and-wikis)
+    - [Gitumentation and the developers market](#gitumentation-and-the-developers-market)
     
 - [Introduction to documentation with Github: PRACTICE](#introduction-to-documentation-with-github-practice)
     - [Start using Github](#start-using-github)
@@ -62,6 +65,13 @@ Technical difficulties and obstacles may well make up one of the reasons prevent
 
 But this is no sufficient reason to make you abandon documentation. Github, thanks to some of its features (in particular to its version control system), is in fact a really good tool for documentation since it automatically records all the changes people have done as well as the steps they have taken during their projects. Soon after starting your github documentation, you'll realize how useful and beneficial it can be for you and your team.
 
+### Gitumentation: Readmes, Posts and Wikis
+
+Github is a software development platform that provides you with some concrete tools for documenting your project. as well as the tools Github provides you to achieve a good documentation, namely (1)the README (a first and overall presentation of your project), (2) the Posts and (3) the Wiki page or wiki (the page where you'll be able to document your project and all your activities in detail)
+
+### Gitumentation and the developers market
+
+
 ## Introduction to documentation with Github PRACTICE
 
 Why is Github even interesting for someone who'd like to document its project? 
@@ -95,7 +105,7 @@ Github provides you with a [guide](https://guides.github.com) presenting you the
     
 ### Start [Documenting your project on Github](https://guides.github.com/features/wikis/) with your Readme, Posts and Wiki pages
   
-The guide [Documenting your project on Github](https://guides.github.com/features/wikis/) provided by Github is one of the most interesting for us; it clearly mentions the role of Github as a documentation tool as well as the tools Github provides you to achieve a good documentation, namely (1)the README (a first and overall presentation of your project) and (2) the WIKI page (the page where you'll be able to document your project and all your activities in detail)
+The guide [Documenting your project on Github](https://guides.github.com/features/wikis/) provided by Github is one of the most interesting for us; it clearly mentions the role of Github as a documentation tool as well as the tools Github provides you to achieve a good documentation, namely (1)the README (a first and overall presentation of your project), (2) the Posts and (3) the Wiki page or wiki (the page where you'll be able to document your project and all your activities in detail)
  
 > Good documentation is key to the success of any project. Making documentation accessible enables people to learn about a project; making it easy to update ensures that documentation stays relevant.
 > Two common ways to document a project are README files and wikis:
