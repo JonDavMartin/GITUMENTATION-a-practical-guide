@@ -76,12 +76,13 @@ Github is a software development platform that provides you with some concrete t
 2. the Posts: a presentation of your project's progress
 3. the Wiki page or wiki: a private page for documenting private and more detailed parts of our project that won't be shown publicly
 
-Those are the tools that we will present you in this guide for your documentation on Github. The first tool you'll be using is the *Readme* in order to provide a first and general introduction of your project. The Readme is what will first appear on the webpage of your project that Github will automaticly host. The second tool are *the Posts** that you'll be publishing to present the progress of your project in more details
+Those are the main tools that will be presented in this guide for helping you document on Github. The first tool you'll be using is the *Readme* in order to provide a first and general introduction of your project. The Readme is what will first appear on the webpage of your project that Github will be hosting automatically for you. The second tool are *the Posts* that you'll be publishing in order to present the general progress of your project in more details. The posts will also show up on your project's webpage hosted on Github right after your Readme. *Wiki pages* are finally more of a private use and won't appear directly on your webpage. They can be used to write down the day to day progress of your project as well as some private information about your project that you'd like to keep safe.
 
 ### Gitumentation and the developers market
 
-As already said, the developers market is linked to Github. To add your project on the developers market, your project first needs to be hosted through a repositry on Github. Github is therefore an essential condition to for your project to access the developers market. 
-The [developers market](http://blog.developers.market)
+As already said, the [developers market](http://blog.developers.market) and in particular the projects that have access to it are all linked to Github. Indeed, to add your project on the developers market, your project first needs to be hosted on a Github repository. Github can therefore be seen as an essential condition for your project to access the developers market. 
+
+Moreover, the tokens that projects can acquire on the developers market are also linked to Github. The potential tokens that  projects acquire on the market indeed come from commits (or changes) that you and your team make on your project's repository on Github. The main elements you need to remember here is that all changes/commmits on your Readme and Posts will be awarded tokens whereas changes/commits in your Wiki page won't be awarded anything.
 
 ## Introduction to documentation with Github PRACTICE
 
