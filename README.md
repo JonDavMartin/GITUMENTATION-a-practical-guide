@@ -27,7 +27,7 @@ We also plan to provide you with a very short but concrete example of documentat
     - [Start documenting your project on Github with your Readme, Posts and Wiki pages](#start-documenting-your-project-on-github-with-your-readme-posts-and-wiki-pages)
     - [Start using Markdown](#start-using-markdown)
     
-- [Introduction to documentation: PRACTICE](#introduction-to-documentation-practice)
+- [Introduction to documentation: EXAMPLES](#introduction-to-documentation-examples)
    
 ### About
 Started in the SDG solution space in Geneva, we aim to provide potential makers with a guide as well as an example of how to use Github to document their projects and activities. New makers might indeed not be familiar with the notion of documentation, the tools available to that purpose and the way of using those tools efficiently. Well, this is exactly the reason this project has been designed for.
@@ -161,7 +161,7 @@ Documentation (Readme and Wiki pages) on Githbub is based on Markdown, also defi
 > *a [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) with plain text formatting syntax [...] with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format"* 
 
 
-## Introduction to documentation EXAMPLE
+## Introduction to documentation: EXAMPLES
 
 for the documentation of our small example-project, please have a look at our [wiki page](https://github.com/JonDavMartin/GITHUB-and-DOCUMENTATION-a-practical-guide/wiki)!
  
