@@ -80,10 +80,11 @@ Those are the main tools that will be presented in this guide for helping you do
 
 ### Gitumentation and the developers market
 
+General information about the developers market is given to you in one of its Posts [introducing developer's market and roadmap](http://blog.developers.market/propositions/2019/03/30/general-project-presentation.html) and its [whitepaper](http://blog.developers.market/whitepaper).
+
 As already said, the [developers market](http://blog.developers.market) and in particular the projects that have access to it are all linked to Github. Indeed, to add your project on the developers market, your project first needs to be hosted on a Github repository. Github can therefore be seen as an essential condition for your project to access the developers market. 
 
-Moreover, the tokens that projects can acquire on the developers market are also linked to Github. The potential tokens that  projects acquire on the market indeed come from commits (or changes) that you and your team make on your project's Github repository. The main elements you need to remember here is that all changes/commmits on your Readme and Posts made by your team can be awarded tokens on the developers market whereas changes/commits in your Wiki page cannot be awarded any token on the market.
-For more information about the developers market, please have a look at its [whitepaper](http://blog.developers.market/whitepaper).
+Moreover, the tokens that projects can acquire on the developers market are also linked to Github. The potential tokens that  projects acquire on the market indeed come from commits (or changes) that you and your team make on your project's Github repository. The main elements you need to remember here is that all **changes/commmits on your Readme and Posts made by your team can be awarded tokens** on the developers market whereas **changes/commits in your Wiki page cannot be awarded any token on the market**.
 
 ## Introduction to documentation with Github PRACTICE
 
@@ -131,21 +132,31 @@ To edit your Readme and write down all this information, you'll have to start us
 
 > All you'll need to do to **[use this template](https://help.github.com/en/articles/creating-a-repository-from-a-template)** is 
 >    1. Opening the repository of the template in just a [click](https://github.com/JonDavMartin/SummerSchool-projects-Template)
->    2. Clicking on the `green Use this template button` (near the top right corner)
->    3. Typing the name of your project as the name for your new repository and adding a small description of it
+>    2. Clicking on the green `Use this template` button (near the top right corner)
+>    3. Naming your new repository with the name of your project and adding a small description of it
 >       
 >       *Make sure your to select `public repository` and `initialize it with a readme`*
 >    4. Finally clicking on `Create repository from template`
 >
 >       *You should now possess a second repository on Github that is based on my template. You are now able to freely start documenting your project on Github on the basis of my template. You now just have to modify the code that is already existing according to your own project and documentation*
 
-#### 5) Start formatting and editing a README:
+#### 5) Start getting use to Markdown before starting your Readme, Posts and Wiki pages
+
+Documentation on Githbub (like Readmes, Posts and Wiki pages) is based on Markdown, also defined as
+
+> a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then converts it to structurally valid XHTML (or HTML). Readmes, Posts and Wiki pages on Github all require Markdown.
+>       *quoted from [here](https://daringfireball.net/projects/markdown/)*
+
+Therefore, “Markdown” can be considered as (1) a plain text formatting syntax and (2) a software tool that converts the plain text formatting to HTML. 
+You can now have a look at [mastering markdown](https://guides.github.com/features/mastering-markdown/) and [basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) that display all the usefull syntax you'll need to write down your Readme, Posts and Wiki pages properly. In case the basic syntax provided in these guides is not enough for you, you can also check [the following webpage](https://daringfireball.net/projects/markdown/syntax#blockquote) coming with more Markdown syntax. (*Don't forget some useful syntax is already provided by the template; you now just need to modify it*)
+
+#### 6) Start formatting and editing a README:
 
 Now, it is time to start gitumenting/documenting on Github by writing down the main information concerning your project in your Readme, that is:
 - **the name of your project**: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
 - **a description**: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
-- **A table of Contents**: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
-Please note that your Readme can serve as a first webpage for your project that Github will be hosting **for free** (I'll give you more information on this later on).
+- **A table of Contents**: Optionally, include a table of contents in order to allow other people to quickly navigate in your Readme.
+Please note that your Readme can serve as a first webpage for your project that Github will be hosting for free.
 
 > In order to do that, just...
 >   1. Go to the main page of your repository
@@ -153,25 +164,35 @@ Please note that your Readme can serve as a first webpage for your project that 
 >   3. Start writing done your informations and text! 
 >
 >       *the template already gives you a basis to facilitate your start. Still, it is now time for you to start learning some simple Markdown language in order to carry on editing your Readme properly:*
-    
-#### 6) Start using Markdown for your Readme, Posts and Wiki pages
 
-> Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). Readmes, Posts and Wiki pages on Github all require Markdown.
->       *quoted from [here](https://daringfireball.net/projects/markdown/)*
+#### 7) Start using POSTS
 
-Thus, “Markdown” is two things: (1) a plain text formatting syntax; and (2) a software tool that converts the plain text formatting to HTML. 
-You can now have a look at [mastering markdown](https://guides.github.com/features/mastering-markdown/) and [basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) which display all the usefull syntax you'll need to write your down your Readme and Wiki page properly. In case the basic syntax provided in these guides are not enough, you can also chec [the following webpage](https://daringfireball.net/projects/markdown/syntax#blockquote) that comes with more Markdown syntax. (*Don't forget some useful syntax is already provided by the template; you now just need to modify it*)
+The second part of your documentation on Github/gitumentation will be made through Posts. After the main information concerning your project has been written down in your Readme, you can now start using **Posts** to document further progresses that your team is making (such as the way you choosed your project's logo or name, or the way you are building your prototype). Some  examples of Posts can be found on the [developers market website](http://blog.developers.market): [Introducing developer's market and roadmap](http://blog.developers.market/propositions/2019/03/30/general-project-presentation.html).
 
-#### 7) Start using your Wiki page
+> To create a Post, what you need to do is...
+>   1. Go to the main page of your repository
+>   2. Click on the `create new file` button (next to `upload files`)
+>   3. First type in `_posts/` and then `try1` when naming your file
+>   4. You can now start writing your first line on the main `edit new file` box
+>   5. Once you've finished writing, scroll down and click on the `commit new file` green button
+>       *Please note you can always add an `optional extended description` when making a commit. This is very important to let the community and your team know about what was the goal behind your commit.*
+>   Great, your have now created your first Post! 
 
-[About Wikis](https://help.github.com/en/articles/about-wikis) first explains you the use of a Wiki page in contrast to that of a Readme Page. As to the role of a wiki page, it says that...
+Once Posts are done, you should also be able to display them on your webpage 
+
+#### 8) Start using your WIKI PAGES/WIKIS
+
+[About Wikis](https://help.github.com/en/articles/about-wikis) first explains you the use of a Wiki page in contrast to that of a Readme Page or a Post. As to the role of a wiki page, it says ...
 > "Every GitHub repository comes equipped with a section for hosting documentation, called a wiki. You can use your repository's wiki to share long-form content about your project, such as how to use it, how you designed it, or its core principles. A README file quickly tells what your project can do, while you can use a wiki to provide additional documentation."
 [Adding or editing Wiki pages](https://help.github.com/en/articles/adding-or-editing-wiki-pages) or [Editing Wki content](https://help.github.com/en/articles/editing-wiki-content) then show you how to create and modify your Wiki page.  
 
------- A FINIR -----
-
-Documentation (Readme and Wiki pages) on Githbub is based on Markdown, also defined on Wikipedia as
-> *a [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language) with plain text formatting syntax [...] with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format"* 
+> To create a Wiki, what you need to do is...
+>   1. Go to the main page of your repository
+>   2. Click on the `wiki` button (located on the top of your screen between the `Projects` and `security` buttons)
+>   3. Then click on the `create the first page` green button that appeared in the middle of your screen
+>   4. Name your new wiki page, start writing your first line and finally click on `save page`
+>   Great, your have now created your first Wiki page! 
+>       *Don't forget that the changes that are made in your wiki page won't be awarded any tokens on the developers market. Wiki pages won't be displayed on your website either. I would then recommend you to store in your wiki all the information that your team is not willing to display on its website such as the people you've contacted so far or the main actions regarding your project that you and your team have been taking every day.*
 
 
 ## Introduction to documentation: EXAMPLES
