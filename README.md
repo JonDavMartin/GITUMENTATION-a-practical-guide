@@ -175,6 +175,7 @@ The second part of your documentation on Github/gitumentation will be made throu
 >   3. First type in `_posts/` and then `try1` when naming your file
 >   4. You can now start writing your first line on the main `edit new file` box
 >   5. Once you've finished writing, scroll down and click on the `commit new file` green button
+>
 >       *Please note you can always add an `optional extended description` when making a commit. This is very important to let the community and your team know about what was the goal behind your commit.*
 >   Great, your have now created your first Post! 
 
@@ -192,6 +193,7 @@ Once Posts are done, you should also be able to display them on your webpage
 >   3. Then click on the `create the first page` green button that appeared in the middle of your screen
 >   4. Name your new wiki page, start writing your first line and finally click on `save page`
 >   Great, your have now created your first Wiki page! 
+>
 >       *Don't forget that the changes that are made in your wiki page won't be awarded any tokens on the developers market. Wiki pages won't be displayed on your website either. I would then recommend you to store in your wiki all the information that your team is not willing to display on its website such as the people you've contacted so far or the main actions regarding your project that you and your team have been taking every day.*
 
 
