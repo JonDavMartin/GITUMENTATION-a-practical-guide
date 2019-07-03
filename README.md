@@ -74,7 +74,7 @@ But this is no sufficient reason to make you abandon documentation. Github, than
 Github is a software development platform that provides you with some concrete tools for documenting your project, namely 
 1. the **Readme**: a first and overall presentation of your project
 2. the **Posts**: a presentation of your project's progress
-3. the **Wiki page** or **wiki**: a private page for documenting private and more detailed parts of our project that won't be shown publicly
+3. the **Wiki page** or **wiki**: a private page for documenting private and more detailed parts of your project that won't be shown publicly
 
 Those are the main tools that will be presented in this guide for helping you document on Github. The first tool you'll be using is the *Readme* in order to provide a first and general introduction of your project. The Readme is what will first appear on the webpage of your project that Github will be hosting automatically for you. The second tool are *the Posts* that you'll be publishing in order to present the general progress of your project in more details. The posts will also show up on your project's webpage hosted on Github right after your Readme. *Wiki pages* are finally more of a private use and won't appear directly on your webpage. They can be used to write down the day to day progress of your project as well as some private information about your project that you'd like to keep safe.
 
